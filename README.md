@@ -8,14 +8,4 @@ Blog-App in which user can view and share blogs with JWT authentication login fe
 3. MongoDB
 
 # Installation 
-# clone the repository to your local machine
-$ git clone https://github.com/roshnimishraa/Blogify
-# Install all the relevant dev-dependencies
-$ npm intsall
-
-# Make a .env file and include the Database details
-
-# Start application
-$ node index.js
-
-# Visit localhost:8000 in your browser
+![image](https://github.com/roshnimishraa/Blogify/assets/121380696/5c38d595-4e9c-4431-9618-fe2760b4e86a)
