@@ -8,4 +8,4 @@ Blog-App in which user can view and share blogs with JWT authentication login fe
 3. MongoDB
 
 # Installation 
-![image](https://github.com/roshnimishraa/Blogify/assets/121380696/5c38d595-4e9c-4431-9618-fe2760b4e86a)
+![image](https://github.com/roshnimishraa/Real-Time-Chat-Application/assets/121380696/93a3c447-8b02-4547-be37-e5e280aa63df)
