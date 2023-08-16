@@ -8,4 +8,16 @@ Blog-App in which user can view and share blogs with JWT authentication login fe
 3. MongoDB
 
 # Installation 
-![image](https://github.com/roshnimishraa/Real-Time-Chat-Application/assets/121380696/93a3c447-8b02-4547-be37-e5e280aa63df)
+I. clone the repository to your local machine <br />
+$ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application <br/>
+<br />
+II. navigate to the project's directory and install all the relevant dev-dependencies <br />
+$ npm intsall <br />
+
+III.  Make a .env file and include the details<br/>
+
+IV. Start application <br />
+$ node index.js    <br />
+
+V. Visit http://localhost:3000/ in your browser
+
