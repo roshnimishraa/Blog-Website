@@ -8,9 +8,10 @@ Blog-App in which user can view and share blogs with JWT authentication login fe
 3. MongoDB
 
 # Output
-![image](https://github.com/roshnimishraa/Blogify/assets/121380696/ef667e91-d8dc-44fb-8864-ef1393b1c7ac) 
+![image](https://github.com/roshnimishraa/Blogify/assets/121380696/1676bb95-9c21-45cc-834e-6dd874500352)
 ![image](https://github.com/roshnimishraa/Blogify/assets/121380696/32a51276-eebb-4ffe-bdf8-c8720c573fcf)
-![image](https://github.com/roshnimishraa/Blogify/assets/121380696/d732f979-5097-45bb-ad23-66bfdb6bf8c0)
+![image](https://github.com/roshnimishraa/Blogify/assets/121380696/894196f0-adaa-4171-b061-8809f087b371)
+
 # Installation 
 I. clone the repository to your local machine <br />
 $ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application <br/>
