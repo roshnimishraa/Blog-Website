@@ -14,7 +14,7 @@ Blog-App in which user can view and share blogs with JWT authentication login fe
 
 # Installation 
 I. clone the repository to your local machine <br />
-$ git clone https://github.com/roshnimishraa/Real-Time-Chat-Application <br/>
+$ git clone https://github.com/roshnimishraa/Blogify <br/>
 <br />
 II. navigate to the project's directory and install all the relevant dev-dependencies <br />
 $ npm intsall <br />
